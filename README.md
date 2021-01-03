@@ -6,6 +6,6 @@ This is a single screen iOS written in swiftUI. This application displays your p
     <td> • GIF </td>
   </tr> 
   <tr>
-    <td> <img src="My_Info_Card_GIF.gif" alt="1" width = 550></td>
+    <td> <img src="My_Info_Card_GIF.gif" alt="1" width = 300></td>
   </td>
   </tr>
